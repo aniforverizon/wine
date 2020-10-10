@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestRegressor
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-# Set random seed
+# Set random seed for class illustration
 seed = 42
 
 ################################
